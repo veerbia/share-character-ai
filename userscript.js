@@ -7,5 +7,5 @@
 // @match        https://beta.character.ai/chat?*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        none
-// @require  https://raw.githubusercontent.com/domeccleston/sharegpt/main/index.js
+// @require  https://raw.githubusercontent.com/veerbia/share-character-ai/main/index.js
 // ==/UserScript==
